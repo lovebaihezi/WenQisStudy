@@ -1,0 +1,8 @@
+.square{
+    list-style: none;
+    border: 1px solid;
+        width: 20px;
+       margin: 10px;
+        height: 20px;
+text-align: center;
+}
